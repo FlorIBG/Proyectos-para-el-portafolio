@@ -1,0 +1,154 @@
+a{
+	text-decoration: none;
+}
+               /*Header*/
+/*Logo*/
+.logo{
+	width: 80%;
+	height: 80%;
+	margin-top: 15%;
+}
+/*Menú de navegación*/
+li{
+	list-style: none;
+	text-decoration: none;
+	display: inline-block;
+	margin-top: 16%;
+	margin-left: 15%;
+	padding-left: 4%;
+	color: gray;
+	font-weight: bold;
+}
+.alinear{
+	margin-left: -3%;
+}
+.lista{
+	margin-top:  -5%;
+    margin-left: 30%;
+	font-size: 100%;
+}
+/*Seccion 1 fondo semilla*/
+.fondosemilla{
+	background-image: url("../img/semilla.jpg");
+	background-color: transparent;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 25% 70%;
+	height: 500px;
+}
+/*Seccion 2 Fondo gris*/
+.fondogris{
+	background-color: #ECE9E0;
+	height: 250px;
+}
+.p1{
+	padding-left: 6%;
+}
+/*Seccion 3 Mision y vision*/
+.misvis{
+	margin-top: 20%; 
+	margin-left: 45%;
+}
+.alinp1{
+	margin-left: 25%;
+}
+/*Seccion 4 Metodologia*/
+.fondoverde{
+	background-image: url("../img/fondo.jpg");
+	background-color: transparent;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.img1{
+	width: 100%;
+	height: 100%;
+}
+.icon1{
+	margin-left: 45%;
+	margin-top: 15%;
+	margin-bottom: 5%;
+}
+/*Seccion 5 Servicio*/
+.mb{
+	margin-bottom: 33%;
+}
+.mlimg{
+	margin-left: 22%;
+}
+/*Seccion 6 Proyectos*/
+.fondoverde2{
+	background-color: #8DAD44;
+	height: 800px;
+}
+.img2{
+	width: 80%;
+	height: 80%;
+	margin-left: 15%;
+	margin-bottom: 8%;
+}
+.mth3{
+	margin-top: 5%;
+	margin-left: 8%;
+}
+/*Seccion 7 Perfiles*/
+.imgperfil{
+	border-radius: 100%;
+	margin-left: 25%;
+}
+.textperfil{
+	font-family: OpenSans-Bold;
+	margin-left: 25%;
+}
+.iconosRS{
+	width: 40%;
+	height:40%;
+}
+/*Seccion8 Blog*/
+.fondogris2{
+	background-image: url("../img/fondo2.jpg");
+	background-color: transparent;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.imgblog{
+	width: 100%;
+	height:100%;
+}
+.imgblog1{
+	width: 75%;
+	height:75%;
+}
+.slider{
+	margin-top: 205%;
+	margin-left: 45%;
+}
+/*Seccion9 Redes Sociales*/
+.fondog3{
+	background-color: black;
+	height: 380px;
+}
+.borde{
+	border: 1px white solid;
+	margin-top: 3%;
+	padding-bottom: 10%;
+	width: 250px;
+	height: 200px;
+}
+.iconosredes{
+	width: 25%;
+	height:25%;
+	margin-left: 75%;
+	margin-top: 45%;
+}
+/*Seccion10 Footer*/
+.fondogrisf{
+	background-color: #ECE9E0;
+	height: 150px;
+}
+.ml{
+	margin-left: 4%;
+	display: inline-block;
+}
+.mr{
+	margin-right: 55%;
+}

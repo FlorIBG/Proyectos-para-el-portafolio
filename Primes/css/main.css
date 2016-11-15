@@ -1,0 +1,182 @@
+nav {
+  background-color: transparent !important;
+}
+.fondo {
+  background-image: url("../img/background/hero.jpg");;
+}
+.margin {
+  margin: 0% !important;
+  padding: 0% !important;
+  width: 100% !important;
+ 
+}
+ul li:hover a {
+    color: #53AFE8;
+}       
+ul.menu li:nth-child(1) a {
+  color: #53AFE8;
+}
+/* .filtrobn{
+ background-color: rgba(0,0,9,0.09);
+}             
+                       Header     Flor
+Largos del filtro
+.lr1{
+ height: 200px;
+ width: 100%;
+}
+  Fondo del Header
+
+.fondoheader{
+  background-image: url("../img/background/hero.jpg");
+-webkit-filter: contrast(50%);
+  background-size: cover;
+  height: 650px;
+}
+Logo
+.logomover{
+  margin-top: 5%;
+}
+Menu
+nav{
+  margin-left: 19%;
+  margin-top: 5%;
+}
+.menu{
+  display: inline-block;
+  margin: 13px;
+}
+Titulo
+h1{
+  font-size: 340%;
+  margin-top: 1%;
+}
+Parrafo de descripcion
+.pdescripcion{
+  margin-top: -5%;
+}
+Botones
+.botonheader{
+ margin: 0% 30%;
+}
+                       Seccion3 6 iconos azules  Flor
+
+Seccion3 Fondo gris
+.fondogris{
+   background-color: #F2F2F2;
+}
+.imgcompus{
+  width: 850px;
+  height:300px;
+  margin-left: 10%;
+}
+                       Seccion4 mas iconos azules    Flor
+
+
+                 Portafolio
+ Menu del portafolio
+ li{
+display: inline-block;
+}
+ Botones del menu
+button{
+ height: 40px;
+ width: 90px;
+ background-color: white;
+ border:none;
+  box-shadow: none;
+}
+ button:hover{
+ background-color: #1742FC;
+ color: white;
+ border-color: #1742FC; 
+ height: 40px;
+ }
+ .pd-3{
+  padding: 2%;
+ } 
+                               Seccion6 Ciudad   Flor
+.ciudad{
+   background-image: url("../img/background/city.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 650px;
+}
+.pciudad{
+  font-size: 200%;
+  margin-top: 15%;
+  margin-bottom: 10%;
+  padding: 0% 10%;
+}
+                                   Formulario        Flor
+.fondoescribir{
+background-image: url("../img/background/contactus.jpg"); 
+background:rgb(0,0,0,.5);
+background-position: center;
+background-size: cover;
+height: 650px;
+}
+Formulario
+input, textarea{
+  border: 1px solid white;
+  color: rgb(83, 88, 95);
+  padding: 0% 2%;
+  margin: 1%;
+  width: 60%;
+  display: block;
+}
+input{
+  height: 30px;
+}
+.ajuste{
+  background-color: transparent;
+  padding-left: 40px;
+  background-position: 5%;
+  background-repeat: no-repeat;
+}
+textarea.ajustet{
+  padding-left: 40px;
+  background-color: transparent;
+  background-position: 5% 10%;
+  background-repeat: no-repeat;
+}
+.colorbotonsend{
+  background-color: #58ACFA;
+}
+Footer
+.bg-oscuro{
+  background-color: #373737;
+}
+.pd-2{
+  padding: 2%;
+}
+
+.bg-white{
+  background-color: white;
+}
+.shadow{
+  box-shadow: 2px 2px 5px #999;
+}
+
+.boton_oscuro{
+  background-color: #02133F !important;
+}
+hr{
+  margin: 4%;
+}
+
+#p_packblue{
+  background-color: #0EB7F6;
+}
+.div{
+  padding-left:12.5% !important;
+}
+.img_custom{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.icon_fuente{
+  font-size: 40px;
+} */
